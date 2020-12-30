@@ -1,0 +1,19 @@
+{
+  "name": "myllieyes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/_contact.scss:./css/style_contact.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokilbandi/Myllieyes.git"
+  },
+  "author": "PokiB01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokilbandi/Myllieyes/issues"
+  },
+  "homepage": "https://github.com/pokilbandi/Myllieyes#readme"
+}
